@@ -12,7 +12,6 @@ Obs: nosso ambiente é feito no vscode, então o baixe antes de continuar lendo.
 - Use o plugin autoDocstring
 
 > É de suma importância que todo código feito esteja completa ou parcialmente documentado. O autodocstring irá deixar toda documentação padronizada no padrão google, o melhor atualmente.
-![alt text](image.png)
 
 - Baixe o git
 > Git é uma ferramenta de versionamento de código que ira ser utilizada durante toda extenção do projeto, você pode estudar um pouco mais sobre essa ferramenta nesse link: https://www.freecodecamp.org/portuguese/news/tutorial-de-git-e-github-controle-de-versao-para-iniciantes/
@@ -20,7 +19,6 @@ Obs: nosso ambiente é feito no vscode, então o baixe antes de continuar lendo.
 
 - Pluin github copilot
 > Copilot é uma ótima ferramenta para auto complete, além disso o mesmo também serve como uma integração do chat gpt no vscode. Siga os passos de (https://dev.to/twizelissa/how-to-enable-github-copilot-for-free-as-student-4kal)
-![alt text](image-1.png)
 
 - Revise conceitos de Orientação a objetos
 (https://www.devmedia.com.br/principais-conceitos-da-programacao-orientada-a-objetos/32285)
@@ -34,8 +32,7 @@ Obs: nosso ambiente é feito no vscode, então o baixe antes de continuar lendo.
 ## Ambiente para trabalhar com DL e ML
 
 - Utilizar o plugin do jupyter
-> É muito importante utilizar uma IDE integrada com o jupyter, isso se da porque o jupyter é uma ferramenta excelente, mas por si só não possui high light, o que dificulta e atrasa a produção de código.
-![alt text](image-2.png) 
+> É muito importante utilizar uma IDE integrada com o jupyter, isso se da porque o jupyter é uma ferramenta excelente, mas por si só não possui high light, o que dificulta e atrasa a produção de código. 
 
 - Criação de virtual environments
 
